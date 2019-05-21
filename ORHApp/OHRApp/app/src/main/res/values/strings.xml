@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">OHR App</string>
+    <string name="welcome_student">Welcome Student!</string>
+    <string name="username">Username</string>
+    <string name="remaining_attempts_3">Remaining Attempts: 3</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="ok">Oké!</string>
+    <string name="verzonden">Verzonden</string>
+    <string name="course">Course</string>
+    <string name="reason">Reason</string>
+    <string name="textview">TextView</string>
+
+
+
+    <string-array name="ArrayList">
+
+    </string-array>
+
+
+    <string-array name="Courses">
+        <item>Analyse 1</item>
+        <item>Analyse 2</item>
+        <item>Analyse 3</item>
+        <item>Analyse 4</item>
+        <item>Development 1</item>
+        <item>Development 2</item>
+        <item>Development 3</item>
+        <item>Development 4</item>
+        <item>Project 1</item>
+        <item>Project 2</item>
+        <item>Project 3</item>
+        <item>Project 4</item>
+        <item>SLC</item>
+        <item>Skills</item>
+
+    </string-array>
+    <string-array name="Classes">
+        <item>INF1A</item>
+        <item>INF1B</item>
+        <item>INF1C</item>
+        <item>INF1D</item>
+        <item>INF1E</item>
+        <item>INF1F</item>
+        <item>INF1G</item>
+    </string-array>
+
+
+    <string-array name="ReasonsPos">
+        <item>Select A Reason</item>
+        <item>The Explanation Was Thorough</item>
+        <item>The Lecture/Class Was Properly Paced</item>
+        <item>The Teacher Provided Useful Examples</item>
+        <item>The Usage Of Additional Exercises</item>
+        <item>The Lecture/Class Was Well Presented</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="Reasonsneg">
+        <item>Select A Reason</item>
+        <item>The Given Explanation Wasn\'t Clear </item>
+        <item>The Lecture/Class Wasn\'t Engaging Enough</item>
+        <item>The Lecture/Class Was Too Fast-Paced</item>
+        <item>The Lecture/Class Was Too Slow-Paced</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="Reasonsall">
+        <item>Select A Reason</item>
+        <item>The Explanation Was Thorough</item>
+        <item>The Lecture/Class Was Properly Paced</item>
+        <item>The Teacher Provided Useful Examples</item>
+        <item>The Usage Of Additional Exercises</item>
+        <item>The Lecture/Class Was Well Presented</item>
+        <item>The Given Explanation Wasn\'t Clear</item>
+        <item>The Lecture/Class Wasn\'t Engaging Enough</item>
+        <item>The Lecture/Class Was Too Fast-Paced</item>
+        <item>The Lecture/Class Was Too Slow-Paced</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="posneg">
+        <item>yes</item>
+        <item>no</item>
+    </string-array>
+
+    <string-array name="negpos">
+        <item>no</item>
+        <item>yes</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,94 @@
+{
+  "project_info": {
+    "project_number": "926526487734",
+    "firebase_url": "https://inlogsystemversie2.firebaseio.com",
+    "project_id": "inlogsystemversie2",
+    "storage_bucket": "inlogsystemversie2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926526487734:android:de64240194bd4a77",
+        "android_client_info": {
+          "package_name": "com.example.cherie.ohrapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926526487734-3p1mh9fr8nqm3ss80vslblpoq4f317jn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cherie.ohrapp",
+            "certificate_hash": "b56b05c10ea29b62c7f9611d6b403cb44f736851"
+          }
+        },
+        {
+          "client_id": "926526487734-bsqho4n1pusq23n8h0nknovve214duao.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "926526487734-bsqho4n1pusq23n8h0nknovve214duao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-g5pMp0qBQJoA4Gl5tqD5yS0iQ1IkOQU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926526487734-bsqho4n1pusq23n8h0nknovve214duao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926526487734:android:4f6222591fa71b1c",
+        "android_client_info": {
+          "package_name": "com.example.xander.project4firebaseloginsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926526487734-bsqho4n1pusq23n8h0nknovve214duao.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "926526487734-bsqho4n1pusq23n8h0nknovve214duao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-g5pMp0qBQJoA4Gl5tqD5yS0iQ1IkOQU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
